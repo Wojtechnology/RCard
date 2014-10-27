@@ -1,0 +1,26 @@
+Transaction History :: R-Card Station Ver.1.0
+----------
+2014/10/26 01:02:16
+Type: Add Student
+Student ID: 1031768
+Student Name: Swiderski, Wojtek
+0.00
+----------
+2014/10/26 21:56:16
+Type: Add Student
+Student ID: 1023966
+Student Name: Topor-Gosman, Rares
+0.00
+----------
+2014/10/26 21:56:32
+Type: Recharge
+Student ID: 1023966
+Student Name: Topor-Gosman, Rares
+0.00 + 5000000.00 = 5000000.00
+----------
+2014/10/26 21:57:08
+Type: Food
+Student ID: 1023966
+Student Name: Topor-Gosman, Rares
+5000000.00 - 2000000.00 = 3000000.00
+----------
